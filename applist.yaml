@@ -1,0 +1,117 @@
+Accessories:
+  - Calculator
+  - Calendar
+  - Contacts
+  - Flameshot
+  - Font Downloader 
+  - Text Editor
+  - USB Flasher
+  - Weather
+Development:
+  - Arduino IDE
+  - Dia
+  - Dbeaver
+  - Gitkraken
+  - Godot Engine
+  - Insomnia
+  - JetBrains Toolbox
+  - Meld
+  - Visual Studio Code
+Devops:
+  - Deja-Dup
+  - Bitwarden
+  - Seahorse
+  - Timeshift
+  - Virtual Machine Manager
+Files:
+  - Catfish File Search
+  - Disk Usage Analyzer
+  - Files
+  - FileZilla
+  - Transmission
+Games:
+  - Dolphin Emulator
+  - DOSBox Emulator
+  - Lutris
+  - Mupen64Plus-Qt
+  - PCSX2
+  - PCSXR
+  - PPSSPP
+  - Retroarch
+  - ScummVM
+  - Steam
+  - Technic Launcher
+  - VICE
+Graphics:
+  - Blender
+  - Gimp
+  - Gpick
+  - Inkscape
+  - Krita
+Internet:
+  - Chromium
+  - Discord
+  - Firefox
+  - Microsoft Teams
+  - Polari
+  - Private Internet Access
+  - Remmina
+Office:
+  - Calibre
+  - Evolution
+  - Geary
+  - Libreoffice
+  - Paperwork
+Sound & Video:
+  - Audacity
+  - Cheese
+  - Kdenlive
+  - LMMS
+  - Lollypop
+  - OBS Studio
+  - Peek
+  - Shotcut
+  - Spotify
+  - VLC
+  - Videos
+  - Handbrake
+System:
+  - Advanced Network Confiration
+  - Bleachbit
+  - Disks
+  - dconf Editor
+  - Extensions
+  - Firewall Configuration (gufw)
+  - Flatseal
+  - Gparted
+  - Language Support
+  - Logs
+  - Nvidia X Server Settings
+  - Pop!_Shop
+  - Power Statistics
+  - Settings
+  - Startup Applications
+  - System Monitor
+  - Tweaks
+Terminal:
+  - Guake
+  - Htop
+  - Midnight Commander
+  - Terminal
+  - Terminator
+  - Vim
+Utilities:
+  - Archive Manager
+  - Barrier
+  - Character Map
+  - Document Scanner
+  - Document Viewer
+  - Eddy
+  - Fonts
+  - Help
+  - Image Viewer
+  - Show Applications
+  - Show Launcher
+  - Show Workspaces
+  - TexInfo
+  - VIA
